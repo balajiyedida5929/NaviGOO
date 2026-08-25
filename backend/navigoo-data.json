@@ -1,0 +1,381 @@
+{
+  "vehicles": [
+    {
+      "id": "66b60290-4d7f-4c0b-ac37-269ccb9786ac",
+      "name": "Maruti Swift",
+      "category": "Hatchback",
+      "transmission": "Manual",
+      "fuel": "Petrol",
+      "seats": 5,
+      "price_per_day": 1599,
+      "rating": 4.6,
+      "reviews_count": 120,
+      "image_emoji": "🚗",
+      "features": [
+        "Bluetooth",
+        "AC",
+        "USB Charger",
+        "Airbags",
+        "GPS",
+        "Rear Camera",
+        "Central Locking"
+      ],
+      "available": true
+    },
+    {
+      "id": "ec1a317d-64ff-40cc-9a2a-5c4a7b40d8ed",
+      "name": "Hyundai i20",
+      "category": "Hatchback",
+      "transmission": "Manual",
+      "fuel": "Petrol",
+      "seats": 5,
+      "price_per_day": 1799,
+      "rating": 4.6,
+      "reviews_count": 98,
+      "image_emoji": "🚗",
+      "features": [
+        "Bluetooth",
+        "AC",
+        "USB Charger",
+        "Airbags",
+        "GPS",
+        "Rear Camera",
+        "Central Locking"
+      ],
+      "available": true
+    },
+    {
+      "id": "6a7390f1-8829-4952-8c6b-2b31f235f3ae",
+      "name": "Kia Seltos",
+      "category": "SUV",
+      "transmission": "Automatic",
+      "fuel": "Diesel",
+      "seats": 5,
+      "price_per_day": 2999,
+      "rating": 4.7,
+      "reviews_count": 210,
+      "image_emoji": "🚙",
+      "features": [
+        "Bluetooth",
+        "AC",
+        "USB Charger",
+        "Airbags",
+        "GPS",
+        "Rear Camera",
+        "Central Locking"
+      ],
+      "available": true
+    },
+    {
+      "id": "c2f9895f-b010-42f6-ae64-ac85503d0039",
+      "name": "Tata Nexon",
+      "category": "SUV",
+      "transmission": "Manual",
+      "fuel": "Petrol",
+      "seats": 5,
+      "price_per_day": 2499,
+      "rating": 4.7,
+      "reviews_count": 156,
+      "image_emoji": "🚙",
+      "features": [
+        "Bluetooth",
+        "AC",
+        "USB Charger",
+        "Airbags",
+        "GPS",
+        "Rear Camera",
+        "Central Locking"
+      ],
+      "available": true
+    },
+    {
+      "id": "679c6033-e1b5-44b2-b9f5-a0e0dac8f1c4",
+      "name": "Honda City",
+      "category": "Sedan",
+      "transmission": "Automatic",
+      "fuel": "Petrol",
+      "seats": 5,
+      "price_per_day": 2299,
+      "rating": 4.5,
+      "reviews_count": 88,
+      "image_emoji": "🚘",
+      "features": [
+        "Bluetooth",
+        "AC",
+        "USB Charger",
+        "Airbags",
+        "GPS",
+        "Rear Camera",
+        "Central Locking"
+      ],
+      "available": true
+    },
+    {
+      "id": "04577683-cfd2-4440-bc4c-ff9f4eaaa794",
+      "name": "Mercedes C-Class",
+      "category": "Luxury",
+      "transmission": "Automatic",
+      "fuel": "Petrol",
+      "seats": 5,
+      "price_per_day": 8999,
+      "rating": 4.9,
+      "reviews_count": 34,
+      "image_emoji": "🏎️",
+      "features": [
+        "Bluetooth",
+        "AC",
+        "USB Charger",
+        "Airbags",
+        "GPS",
+        "Rear Camera",
+        "Central Locking"
+      ],
+      "available": true
+    }
+  ],
+  "driverVehicles": [
+    {
+      "id": "55b8ce27-1b46-4e59-96dc-30c2ad2b7393",
+      "category": "Hatchback",
+      "name": "Hyundai i10",
+      "seats": 4,
+      "fuel": "Petrol",
+      "price_one_way": 1499
+    },
+    {
+      "id": "6ceccf1f-c652-406b-84d2-769d13a24497",
+      "category": "Sedan",
+      "name": "Honda City",
+      "seats": 4,
+      "fuel": "Petrol",
+      "price_one_way": 1899
+    },
+    {
+      "id": "06aa9a5b-c51d-4344-a458-f77cc5ecf7ca",
+      "category": "SUV",
+      "name": "Kia Seltos",
+      "seats": 6,
+      "fuel": "Diesel",
+      "price_one_way": 2399
+    },
+    {
+      "id": "100fa600-f078-414d-babd-845a68a5e56d",
+      "category": "7 Seater",
+      "name": "Toyota Innova Crysta",
+      "seats": 7,
+      "fuel": "Diesel",
+      "price_one_way": 2499
+    },
+    {
+      "id": "b67339de-0e9a-4239-8abb-0407d52cca0a",
+      "category": "7 Seater",
+      "name": "Kia Carnival",
+      "seats": 7,
+      "fuel": "Diesel",
+      "price_one_way": 2899
+    },
+    {
+      "id": "d878eeb3-990e-4ab8-bbb4-3bc4a5262847",
+      "category": "7 Seater",
+      "name": "Mahindra Marazzo",
+      "seats": 7,
+      "fuel": "Diesel",
+      "price_one_way": 2199
+    },
+    {
+      "id": "c6488a04-a09d-4ca0-a402-0cd427bdd58b",
+      "category": "Tempo Traveller",
+      "name": "Force Tempo Traveller",
+      "seats": 12,
+      "fuel": "Diesel",
+      "price_one_way": 4499
+    }
+  ],
+  "drivers": [
+    {
+      "id": "2ab88ecb-4e86-4afd-8b36-64852a021755",
+      "name": "Suresh Kumar",
+      "phone": "+91 98765 43210",
+      "rating": 4.9,
+      "vehicle_no": "TS10 AB 5678",
+      "vehicle_name": "Toyota Innova Crysta",
+      "vehicle_color": "White",
+      "avatar_emoji": "🧑‍✈️"
+    },
+    {
+      "id": "84592a54-55cd-4df7-9c89-b9f20599628e",
+      "name": "Ramesh Kumar",
+      "phone": "+91 98765 43210",
+      "rating": 4.8,
+      "vehicle_no": "TS10 AB 1234",
+      "vehicle_name": "Maruti Swift",
+      "vehicle_color": "White",
+      "avatar_emoji": "🧑‍✈️"
+    }
+  ],
+  "mechanics": [
+    {
+      "id": "ecdeee68-5232-475f-a2e4-a9facb73b29b",
+      "name": "Ramesh Kumar",
+      "experience_years": 12,
+      "rating": 4.8,
+      "distance_km": 2.1,
+      "price": 150,
+      "eta_min": 10,
+      "jobs_done": 852,
+      "about": "Skilled in all types of car repairs. Battery, tyre, engine and general maintenance.",
+      "services": [
+        "Battery Jumpstart",
+        "Tyre Puncture",
+        "Engine Repair",
+        "Fuel Assistance",
+        "General Repair"
+      ]
+    },
+    {
+      "id": "e6ba52fe-0a52-438c-b54a-23ce566f0f73",
+      "name": "Suresh Yadav",
+      "experience_years": 8,
+      "rating": 4.6,
+      "distance_km": 2.7,
+      "price": 120,
+      "eta_min": 12,
+      "jobs_done": 611,
+      "about": "Specialist in two & three wheeler roadside repairs.",
+      "services": [
+        "Battery Jumpstart",
+        "Tyre Puncture",
+        "Engine Repair",
+        "Fuel Assistance",
+        "General Repair"
+      ]
+    },
+    {
+      "id": "597fc8a1-7967-442b-a638-58f802dff1f4",
+      "name": "Imran Ali",
+      "experience_years": 10,
+      "rating": 4.7,
+      "distance_km": 3.2,
+      "price": 150,
+      "eta_min": 15,
+      "jobs_done": 734,
+      "about": "Experienced with SUVs, trucks and heavy vehicles.",
+      "services": [
+        "Battery Jumpstart",
+        "Tyre Puncture",
+        "Engine Repair",
+        "Fuel Assistance",
+        "General Repair"
+      ]
+    },
+    {
+      "id": "95790429-2175-418b-a4ff-01b973aff41a",
+      "name": "Mahesh R.",
+      "experience_years": 6,
+      "rating": 4.5,
+      "distance_km": 3.8,
+      "price": 100,
+      "eta_min": 18,
+      "jobs_done": 402,
+      "about": "Quick fixes for battery jumpstarts and tyre punctures.",
+      "services": [
+        "Battery Jumpstart",
+        "Tyre Puncture",
+        "Engine Repair",
+        "Fuel Assistance",
+        "General Repair"
+      ]
+    }
+  ],
+  "deliveryItems": [
+    {
+      "id": "4ba05597-4701-4a9c-b7f4-61c3940f26dd",
+      "category": "Sweets",
+      "name": "Pure Ghee Sweets",
+      "source_location": "Vijayawada (Local Famous)",
+      "price": 450
+    },
+    {
+      "id": "7c753d8b-ce36-4495-80b6-e84fd8ea967c",
+      "category": "Sweets",
+      "name": "Kaja / Bellam Sweets",
+      "source_location": "Vijayawada",
+      "price": 350
+    },
+    {
+      "id": "c2ac129d-2276-4549-90cc-d7b8bd41df9c",
+      "category": "Food",
+      "name": "Pesarattu Mix",
+      "source_location": "Vijayawada",
+      "price": 120
+    },
+    {
+      "id": "d4c52fd6-9a0e-4eb8-b673-6a788947826d",
+      "category": "Snacks",
+      "name": "Andhra Mixture",
+      "source_location": "Vijayawada",
+      "price": 180
+    },
+    {
+      "id": "cc068cfc-7b3e-40df-a223-f46ff7a8ce77",
+      "category": "Gifts",
+      "name": "Handloom Gift Box",
+      "source_location": "Vijayawada",
+      "price": 650
+    }
+  ],
+  "deliveryPartners": [
+    {
+      "id": "3689824a-4b5b-4f04-a2d3-1d52d5cda340",
+      "name": "Raju Kumar",
+      "phone": "+91 98765 43210",
+      "rating": 4.8,
+      "vehicle": "Activa 125 – Scooter",
+      "base_location": "Vijayawada, Andhra Pradesh"
+    }
+  ],
+  "ambulances": [
+    {
+      "id": "590669b7-d9d7-4cb2-993f-df12cacee9af",
+      "provider_name": "Sri Sai Emergency Care",
+      "ambulance_no": "AP39 EM 1234",
+      "type": "Advanced Life Support",
+      "rating": 4.8,
+      "driver_name": "Ramesh Kumar",
+      "driver_phone": "+91 98765 43210",
+      "distance_km": 2.4,
+      "eta_min": 6
+    }
+  ],
+  "bookings": [
+    {
+      "id": "e49685e6-e1d9-4200-a8e4-e5803cdef8f4",
+      "type": "self_drive",
+      "status": "confirmed",
+      "created_at": "2026-08-02T05:32:19.796Z",
+      "booking_id": "SD1785648739796",
+      "vehicle": {
+        "id": "66b60290-4d7f-4c0b-ac37-269ccb9786ac",
+        "name": "Maruti Swift",
+        "transmission": "Manual",
+        "fuel": "Petrol",
+        "seats": 5,
+        "color": "White",
+        "plate": "TS10 AB 6166"
+      },
+      "pickup_location": "Hyderabad",
+      "pickup_datetime": "2026-08-05T10:00",
+      "return_datetime": "2026-08-06T10:00",
+      "fare": {
+        "base": 1599,
+        "taxes": 288,
+        "deposit": 2000,
+        "total": 3887
+      },
+      "owner": {
+        "name": "Ramesh Kumar",
+        "phone": "+91 98765 43210"
+      }
+    }
+  ]
+}

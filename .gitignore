@@ -1,0 +1,8 @@
+node_modules/
+dist/
+navigoo.db
+navigoo.db-journal
+navigoo.db-wal
+navigoo.db-shm
+.DS_Store
+*.log
